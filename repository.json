@@ -3,6 +3,8 @@
         "event-handler": "git@github.com:grzegorz-grzeda/event-handler.git",
         "callbacks": "git@github.com:grzegorz-grzeda/callbacks.git",
         "uuid": "git@github.com:grzegorz-grzeda/uuid.git",
+        "flow": "git@github.com:grzegorz-grzeda/flow.git",
+        "cli": "git@github.com:grzegorz-grzeda/cli.git",
         "containers": "git@github.com:grzegorz-grzeda/containers.git",
         "color-manipulation": "git@github.com:grzegorz-grzeda/color-manipulation.git",
         "atomic-tests": "git@github.com:grzegorz-grzeda/atomic-tests.git"
