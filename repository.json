@@ -10,6 +10,8 @@
         "g2labs-log": "git@github.com:grzegorz-grzeda/g2labs-log.git",
         "atomic-tests": "git@github.com:grzegorz-grzeda/atomic-tests.git",
         "divulge": "git@github.com:grzegorz-grzeda/divulge.git",
-        "encodings": "git@github.com:grzegorz-grzeda/encodings.git"
+        "encodings": "git@github.com:grzegorz-grzeda/encodings.git",
+        "audit": "git@github.com:grzegorz-grzeda/audit.git",
+        "stream-server": "git@github.com:grzegorz-grzeda/stream-server.git"
     }
 }
