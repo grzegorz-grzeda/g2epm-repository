@@ -12,6 +12,7 @@
         "divulge": "git@github.com:grzegorz-grzeda/divulge.git",
         "encodings": "git@github.com:grzegorz-grzeda/encodings.git",
         "audit": "git@github.com:grzegorz-grzeda/audit.git",
-        "stream-server": "git@github.com:grzegorz-grzeda/stream-server.git"
+        "stream-server": "git@github.com:grzegorz-grzeda/stream-server.git",
+        "font": "git@github.com:grzegorz-grzeda/font.git"
     }
 }
