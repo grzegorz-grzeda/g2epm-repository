@@ -13,6 +13,9 @@
         "encodings": "git@github.com:grzegorz-grzeda/encodings.git",
         "audit": "git@github.com:grzegorz-grzeda/audit.git",
         "stream-server": "git@github.com:grzegorz-grzeda/stream-server.git",
-        "font": "git@github.com:grzegorz-grzeda/font.git"
+        "font": "git@github.com:grzegorz-grzeda/font.git",
+        "generic-controller": "git@github.com:grzegorz-grzeda/generic-controller.git",
+        "generic-display": "git@github.com:grzegorz-grzeda/generic-display.git",
+        "ssd1306": "git@github.com:grzegorz-grzeda/ssd1306.git"
     }
 }
