@@ -16,6 +16,7 @@
         "font": "git@github.com:grzegorz-grzeda/font.git",
         "generic-controller": "git@github.com:grzegorz-grzeda/generic-controller.git",
         "generic-display": "git@github.com:grzegorz-grzeda/generic-display.git",
-        "ssd1306": "git@github.com:grzegorz-grzeda/ssd1306.git"
+        "ssd1306": "git@github.com:grzegorz-grzeda/ssd1306.git",
+        "user-screen": "git@github.com:grzegorz-grzeda/user-screen.git"
     }
 }
