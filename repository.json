@@ -6,6 +6,7 @@
         "uuid": "git@github.com:grzegorz-grzeda/uuid.git",
         "audit": "git@github.com:grzegorz-grzeda/audit.git",
         "timer": "git@github.com:grzegorz-grzeda/timer.git",
+        "result": "git@github.com:grzegorz-grzeda/result.git",
         "divulge": "git@github.com:grzegorz-grzeda/divulge.git",
         "ssd1306": "git@github.com:grzegorz-grzeda/ssd1306.git",
         "callbacks": "git@github.com:grzegorz-grzeda/callbacks.git",
