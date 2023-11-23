@@ -19,6 +19,7 @@
         "ssd1306": "git@github.com:grzegorz-grzeda/ssd1306.git",
         "user-screen": "git@github.com:grzegorz-grzeda/user-screen.git",
         "software-id": "git@github.com:grzegorz-grzeda/software-id.git",
-        "g2labs-platform": "git@github.com:grzegorz-grzeda/g2labs-platform.git"
+        "g2labs-platform": "git@github.com:grzegorz-grzeda/g2labs-platform.git",
+        "g2labs-platform-tick": "git@github.com:grzegorz-grzeda/g2labs-platform-tick.git"
     }
 }
