@@ -9,6 +9,7 @@
         "result": "git@github.com:grzegorz-grzeda/result.git",
         "divulge": "git@github.com:grzegorz-grzeda/divulge.git",
         "ssd1306": "git@github.com:grzegorz-grzeda/ssd1306.git",
+        "database": "git@github.com:grzegorz-grzeda/database.git",
         "callbacks": "git@github.com:grzegorz-grzeda/callbacks.git",
         "encodings": "git@github.com:grzegorz-grzeda/encodings.git",
         "containers": "git@github.com:grzegorz-grzeda/containers.git",
