@@ -12,6 +12,7 @@
         "callbacks": "git@github.com:grzegorz-grzeda/callbacks.git",
         "encodings": "git@github.com:grzegorz-grzeda/encodings.git",
         "containers": "git@github.com:grzegorz-grzeda/containers.git",
+        "event-queue": "git@github.com:grzegorz-grzeda/event-queue.git",
         "user-screen": "git@github.com:grzegorz-grzeda/user-screen.git",
         "software-id": "git@github.com:grzegorz-grzeda/software-id.git",
         "atomic-tests": "git@github.com:grzegorz-grzeda/atomic-tests.git",
